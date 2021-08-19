@@ -1,0 +1,121 @@
+element.style {
+}
+styles.scss…? [sm]:3531
+.shopify-section {
+ width: 100%;
+}
+
+buy-fascino…25-fi:10667
+*, *:before, *:after {
+ -webkit-box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+bootstrap.c…742301993:6
+*, ::after, ::before {
+ box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+ display: block;
+}
+
+Inherited from body.product
+bootstrap.c…742301993:6
+body {
+ margin: 0;
+ font-family: Ubuntu,sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+ font-size: .875rem;
+ font-weight: 400;
+ line-height: 1.5;
+ color: #39393b;
+ text-align: left;
+ background-color: #fff;
+}
+
+styles.scss…? [sm]:2701
+body {
+ font-family: Ubuntu,sans-serif;
+ font-weight: 400;
+ font-size: 14px;
+ color: #39393b;
+ line-height: 1.5;
+ text-rendering: optimizeLegibility;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+ font-smoothing: antialiased;
+ overflow-wrap: anywhere;
+}
+
+styles.scss…? [sm]:2382
+body, button, input, select, textarea {
+ font-family: Ubuntu,sans-serif;
+}
+
+Inherited from html.mediaqueries.no-touchevents.js-focus-visible
+bootstrap.c…742301993:6
+:root {
+ --blue: #0000A1;
+ --blue-light: #B7C7E8;
+ --purple: #6f42c1;
+ --pink: #e83e8c;
+ --red: #dc3545;
+ --orange: #fd7e14;
+ --yellow: #ffc107;
+ --green: #28a745;
+ --teal: #20c997;
+ --cyan: #17a2b8;
+ --white: #fff;
+ --gray: #6c757d;
+ --gray-dark: #39393B;
+ --primary: #0000A1;
+ --secondary: #B7C7E8;
+ --success: #28a745;
+ --info: #fd7e14;
+ --warning: #ffc107;
+ --danger: #dc3545;
+ --white: #fff;
+ --breakpoint-xs: 0;
+ --breakpoint-sm: 576px;
+ --breakpoint-md: 768px;
+ --breakpoint-lg: 992px;
+ --breakpoint-xl: 1200px;
+ --font-family-sans-serif: Ubuntu,sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+ --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+
+bootstrap.c…742301993:6
+html {
+ font-family: sans-serif;
+ line-height: 1.15;
+ -webkit-text-size-adjust: 100%;
+ -webkit-tap-highlight-color: transparent;
+}
+
+Pseudo ::before element
+buy-fascino…25-fi:10667
+*, *:before, *:after {
+ -webkit-box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+bootstrap.c…742301993:6
+*, ::after, ::before {
+ box-sizing: border-box;
+}
+
+Pseudo ::after element
+buy-fascino…25-fi:10667
+*, *:before, *:after {
+ -webkit-box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+bootstrap.c…742301993:6
+*, ::after, ::before {
+ box-sizing: border-box;
+}
